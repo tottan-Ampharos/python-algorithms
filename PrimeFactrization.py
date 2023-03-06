@@ -1,5 +1,6 @@
-def PrimeFactrization(test):
+def PrimeFactorization(test):
     return test
 
+
 n = input()
-print(PrimeFactrization(n))
+print(PrimeFactorization(n))
